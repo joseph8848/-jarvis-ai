@@ -1,5 +1,7 @@
 # JARVIS AI Assistant
 
+[🚀 Run Locally](#quick-start) - *Run with `python main.py`*
+
 A local, voice-controlled AI assistant for Windows PC.
 
 ## Quick Start
