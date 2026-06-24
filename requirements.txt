@@ -1,0 +1,23 @@
+# JARVIS AI - Python Dependencies
+# Run: pip install -r requirements.txt
+
+# Voice Input (Speech Recognition)
+SpeechRecognition>=3.10.0
+
+# Voice Output (Text-to-Speech)
+pyttsx3>=2.90
+
+# Mouse and Keyboard Automation
+pyautogui>=0.9.54
+
+# Windows Application Automation
+pywinauto>=0.6.8
+
+# Volume Control
+pycaw>=20230407
+
+# COM interface for Windows (required by pycaw)
+comtypes>=1.2.0
+
+# Audio support for speech recognition
+PyAudio>=0.2.13
